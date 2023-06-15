@@ -1,5 +1,4 @@
 # WebCameraStreamFlaskApp
-
 WebCameraStreamFlaskApp is a Flask-based application that allows you to capture frames from a web camera and stream them in real-time to a web page. It provides a simple and intuitive way to display live video feeds using the Flask web framework and OpenCV library.
 
 <img src = "picture.png">
